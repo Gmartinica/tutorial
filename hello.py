@@ -1,4 +1,4 @@
 print("Hello World")
 print("My name is Thenish")
-print("My favorite colour is Red")
+print("My favorite colour is blue")
 
